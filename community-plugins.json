@@ -64946,6 +64946,13 @@
     "repo": "ysasiwat/obsidian-okf-wiki"
   },
   {
+    "id": "popup-tab-switcher",
+    "name": "Popup Tab Switcher",
+    "author": "Pierre-Olivier",
+    "description": "VS Code-style Ctrl+Tab popup to switch between open tabs in MRU order, plus open files in new tabs.",
+    "repo": "poclerson/obsidian-popup-tab-switcher"
+  },
+  {
     "id": "relate",
     "name": "Relate",
     "author": "ttangents",
