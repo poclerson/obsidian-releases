@@ -69200,5 +69200,12 @@
     "author": "hc-nolan",
     "description": "Write and edit guitar tabs from the keyboard, in fenced code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hc-nolan/tablature-obsidian"
+  },
+  {
+    "id": "obsidian-chords",
+    "name": "Chords",
+    "author": "Pierre-Olivier",
+    "description": "VS Code-style chord keyboard shortcuts (e.g. Cmd+K then Cmd+N).",
+    "repo": "poclerson/obsidian-chords"
   }
 ]
